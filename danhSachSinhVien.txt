@@ -1,0 +1,7 @@
+sv01,Đặng Tuấn Anh,Hà Nội,09/06/2022,0123456789,CNTT,Đủ điều kiện
+sv02,Đỗ Hoàng Gia Bảo,Hưng Yên,04/06/2022,4508067,Điện,Khong Du dieu kien
+sv03,Tăng Phương Chi,Hải Phòng,07/06/2022,808871,Du lịh,Du dieu kien
+sv04,Nguyễn Thị Ngân Hà,Thái Nguyên,10/06/2022,804567,Điện,Du dieu kien
+sv05,Nguyễn Lê Hiếu,Hà Nam,02/06/2022,808674,CNTT,Khong Du dieu kien
+sv06,Phạm Xuân Hòa,Phú yên,15/06/2022,807532,cơ khí,Du dieu kien
+sv07,Phan Trọng Trường,Hải Dương,01/01/2001,0123456788,CNTT,Đủ điều kiện

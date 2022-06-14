@@ -1,0 +1,4 @@
+sv01,Đặng Tuấn Anh,Lập trình Java,3.2
+sv02,Đỗ Hoàng Gia Bảo,Đồ họa máy tính,6.9
+sv01,Đặng Tuấn Anh,Lập trình .NET,3.5
+sv04,Nguyễn Thị Ngân Hà,Lập trình .NET,8.8
